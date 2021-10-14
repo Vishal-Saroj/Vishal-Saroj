@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://media-exp1.licdn.com/dms/image/C4D16AQEPPngjCxvGNA/profile-displaybackgroundimage-shrink_350_1400/0/1628972882653?e=1634169600&v=beta&t=upjhgc59DqdmmVOOa_FCzP2dvi4VlpCNKZbgJkJXHW4">
+<img align="center" alt="Coding" width="1000" src="https://media-exp1.licdn.com/dms/image/C4D16AQEPPngjCxvGNA/profile-displaybackgroundimage-shrink_350_1400/0/1628972882653?e=1639612800&v=beta&t=qY6JYZwBXauuioUrL_VPkNrxtvBEhScssAynHxU7jiI">
 
 <h1 align="center">Hi 👋, I'm Vishal Saroj</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
