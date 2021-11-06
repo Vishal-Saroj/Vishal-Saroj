@@ -17,8 +17,6 @@
 
 
 
-
-
 - 🔭 I’m currently working on **My New Project**
 
 - 🌱 I’m currently learning **How to Manage Many Tasks**
