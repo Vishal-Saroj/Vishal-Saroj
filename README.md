@@ -4,6 +4,7 @@
 <h3 align="center">A Hardworking Computer Engineer from INDIA</h3>
 <h3 align="center">Programmer || Developer || Learner || </h3>
 
+
 <h3 align="center">╰‿╯</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-saroj" /> </p>
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **vishal.saroj18@hotmail.com**
 
-- ⚡ Fact **"I Am a Quick Learner"**
+- ⚡ Fact **"I Am a Quick Learner"***
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
