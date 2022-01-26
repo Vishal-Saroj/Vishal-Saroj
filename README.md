@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://www.linkedin.com/in/vishal-saroj/overlay/background-image/">
+<img align="center" alt="Coding" width="1000" src="https://media-exp1.licdn.com/dms/image/C4D16AQEPPngjCxvGNA/profile-displaybackgroundimage-shrink_350_1400/0/1628972882653?e=1648684800&v=beta&t=7lEGPViUawEsPm1xopRfV_pry2h7drM9gGPlMBFRAKM">
 
 <h1 align="center">🍀 Hi, I'm Vishal Saroj</h1> 
 <h3 align="center">A Hardworking Computer Engineer from INDIA</h3>
