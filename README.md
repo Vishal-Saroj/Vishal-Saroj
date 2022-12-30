@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vishal.saroj18@hotmail.com**
 
-- ⚡ Fact **"I Am a Quick Learner"***
+- ⚡ Fact **"I Am a Quick Learner"**
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
