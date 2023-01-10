@@ -1,7 +1,15 @@
 <img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D16AQEPPngjCxvGNA/profile-displaybackgroundimage-shrink_350_1400/0/1628972882653?e=1677715200&v=beta&t=yVXJKPU8uwm_2hp8F141zP_x9SOsXby-5KWzTlVTasE">
 
+
 <h1 align="center">ˠ Vishal Saroj ˠ</h1> 
-<h3 align="center">A Hardworking Computer Engineer from INDIA</h3>
+<a href="https://github.com/Vishal-Saroj"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Indian_flag_animation.gif/640px-Indian_flag_animation.gif" alt="flag" width="40" height="40"/>
+</a> 
+
+
+
+<h3 align="center">Hardworking Computer Engineer from INDIA</h3>
+
 <h3 align="center">Programmer || Developer || Learner || </h3>
 
 
@@ -38,7 +46,26 @@
 
 
 <h3 align="right">Languages and Tools:</h3>
-<p align="right"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="right"> 
+    <a href="https://developer.android.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+</p>
 
 
 
