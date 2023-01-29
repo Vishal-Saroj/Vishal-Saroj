@@ -10,7 +10,7 @@
 
 <h3 align="center">Hardworking Computer Engineer from INDIA</h3>
 
-<h3 align="center">Programmer || Developer || Learner || </h3>
+<h3 align="center">Programmer || Developer || Creator || </h3>
 
 
 
