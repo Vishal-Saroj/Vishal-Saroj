@@ -3,7 +3,7 @@
 
 <h1 align="center">ˠ Vishal Saroj ˠ</h1> 
 <a href="https://github.com/Vishal-Saroj"> 
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Indian_flag_animation.gif/640px-Indian_flag_animation.gif](https://media.licdn.com/dms/image/C4D16AQEPPngjCxvGNA/profile-displaybackgroundimage-shrink_350_1400/0/1628972882653?e=1683763200&v=beta&t=-gqVE6LEiHJE4kQZt_hh23Sqts4jk5HOcOPKh-hBv7s)" alt="flag" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Indian_flag_animation.gif/640px-Indian_flag_animation.gif" alt="flag" width="40" height="40"/>
 </a> 
 
 
