@@ -31,9 +31,9 @@
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://linkedin.com/in/8aa9a5217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="8aa9a5217" height="30" width="40" /></a>
-<a href="https://instagram.com/vishal_saroj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_saroj_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/m2b5rw2igncmunttaz14ytrw7kgr83kfl3tacvwk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="m2b5rw2igncmunttaz14ytrw7kgr83kfl3tacvwk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-saroj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="8aa9a5217" height="30" width="40" /></a>
+<a href="https://instagram.com/vishal_saroj_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_saroj_" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/m2b5rw2igncmunttaz14ytrw7kgr83kfl3tacvwk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="m2b5rw2igncmunttaz14ytrw7kgr83kfl3tacvwk" height="30" width="40" /></a>
 </p>
 
 
