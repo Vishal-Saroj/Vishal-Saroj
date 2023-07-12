@@ -1,5 +1,7 @@
 <img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D16AQEPPngjCxvGNA/profile-displaybackgroundimage-shrink_350_1400/0/1628972882653?e=1689811200&v=beta&t=2wjWtlTR85OUN_XnCDdNaulSpOzlLG8xGgO-yki3XYs">
 
+<img align="right" alt="badge" width="140" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+
 
 <h1 align="center">ˠ Vishal Saroj ˠ</h1> 
 <a href="https://github.com/Vishal-Saroj"> 
