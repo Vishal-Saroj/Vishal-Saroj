@@ -10,7 +10,7 @@
 
 <br/>
 
-<h3 align="center">Hardworking Computer Engineer from INDIA</h3>
+<h3 align="left">Hardworking Computer Engineer from INDIA</h3>
 <h3 align="left">Programmer || Cyber Security Enthusiast ||</h3>
 <br/>
 
