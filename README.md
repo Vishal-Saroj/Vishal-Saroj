@@ -4,14 +4,16 @@
 
 
 <h1 align="center">ˠ Vishal Saroj ˠ</h1> 
+
+
+<br/>
+<h3 align="center">Hardworking Computer Engineer from INDIA <br/> Programmer || Cyber Security Enthusiast ||</h3>
+<br/>
+
 <a align="left" href="https://github.com/Vishal-Saroj"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Indian_flag_animation.gif/640px-Indian_flag_animation.gif" alt="flag" width="40" height="40"/>
 </a> 
 
-<br/>
-<h3 align="center">Hardworking Computer Engineer from INDIA <br/> Programmer || Cyber Security Enthusiast ||</h3>
-
-<br/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-saroj"/> 
 </p>
