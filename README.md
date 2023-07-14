@@ -4,12 +4,11 @@
 
 
 <h1 align="center">ˠ Vishal Saroj ˠ</h1> 
-<a href="https://github.com/Vishal-Saroj"> 
+<a align="left" href="https://github.com/Vishal-Saroj"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Indian_flag_animation.gif/640px-Indian_flag_animation.gif" alt="flag" width="40" height="40"/>
 </a> 
 
 <br/>
-
 <h3 align="center">Hardworking Computer Engineer from INDIA <br/> Programmer || Cyber Security Enthusiast ||</h3>
 
 <br/>
