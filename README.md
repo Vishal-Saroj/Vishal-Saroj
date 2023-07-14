@@ -11,21 +11,15 @@
 <br/>
 
 <h3 align="center">Hardworking Computer Engineer from INDIA</h3>
+<h3 align="left">Programmer || Cyber Security Enthusiast ||</h3>
 <br/>
-<h3 align="center">Programmer || Cyber Security Enthusiast || </h3>
-<br/>
 
-
-
-
-
-
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-saroj" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-saroj"/> 
+</p>
 
 - 🔭 I’m currently Exploring on **Cyber Technology Security**
 
-- 🌱 I’m currently learning **How to Manage Many Tasks**
+- 🌱 I’m currently learning **How to Manage Networks and Cloud Infrastructure**
 
 - 📫 How to reach me **vishal.saroj18@hotmail.com**
 
