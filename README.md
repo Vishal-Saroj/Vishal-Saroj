@@ -12,7 +12,7 @@
 
 <h3 align="center">Hardworking Computer Engineer from INDIA</h3>
 
-<h3 align="center">Programmer || Developer || Creator || </h3>
+<h3 align="center">Programmer || Cyber Security Enthusiast || </h3>
 
 
 
@@ -23,7 +23,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-saroj" /> </p>
 
-- 🔭 I’m currently working on **My New Project**
+- 🔭 I’m currently Exploring on **Cyber Technology Security**
 
 - 🌱 I’m currently learning **How to Manage Many Tasks**
 
