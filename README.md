@@ -8,7 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Indian_flag_animation.gif/640px-Indian_flag_animation.gif" alt="flag" width="40" height="40"/>
 </a> 
 
-
+<br/>
 
 <h3 align="center">Hardworking Computer Engineer from INDIA</h3>
 
