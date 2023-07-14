@@ -12,8 +12,8 @@
 
 <h3 align="center">Hardworking Computer Engineer from INDIA</h3>
 <br/>
-<h3 align="center">Hardworking Computer Engineer from INDIA</h3>
-
+<h3 align="center">Programmer || Cyber Security Enthusiast || </h3>
+<br/>
 
 
 
