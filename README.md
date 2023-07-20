@@ -16,9 +16,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-saroj"/> 
 </p>
 
-- 🔭 I’m currently Exploring on **Cyber Technology Security**
+- 🔭 I’m currently Exploring on **Cyber Security Technology**
 
-- 🌱 I’m currently learning **How to Manage Networks and Cloud Infrastructure**
+- 🌱 I’m currently learning **How to Manage Network, Servers and Cloud Infrastructure**
 
 - 📫 How to reach me **vishal.saroj18@hotmail.com**
 
