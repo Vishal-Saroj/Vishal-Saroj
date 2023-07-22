@@ -3,18 +3,22 @@
 <img align="right" alt="badge" width="140" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 
 
+
 <h1 align="center">ˠ Vishal Saroj ˠ</h1> 
 
 
+
 <h3 align="center">Hardworking Computer Engineer from INDIA <br/> Programmer || Cyber Security Enthusiast ||</h3>
+
+<img align="right" alt="badge" width="140" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png">
 
 <a align="left" href="https://github.com/Vishal-Saroj"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Indian_flag_animation.gif/640px-Indian_flag_animation.gif" alt="flag" width="40" height="40"/>
 </a> 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-saroj"/> 
-</p>
+
+
 
 - 🔭 I’m currently Exploring on **Cyber Security Technology**
 
@@ -23,6 +27,9 @@
 - 📫 How to reach me **vishal.saroj18@hotmail.com**
 
 - ⚡ Fact **"I Am a Quick Learner"**
+
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal-saroj&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-saroj"/> 
+</p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
