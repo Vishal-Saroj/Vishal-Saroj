@@ -8,8 +8,8 @@
 
 
 
-<h3 align="center">Hardworking Computer Engineer from INDIA <br/> Programmer || Cyber Security Enthusiast ||</h3>
-
+<h3 align="center">Hardworking Computer Engineer from INDIA <br/> Programmer || Cyber Security Enthusiast || </h3>
+</br>
 <img align="right" alt="badge" width="140" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png">
 
 <a align="left" href="https://github.com/Vishal-Saroj"> 
