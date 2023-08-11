@@ -20,9 +20,9 @@
 
 
 
-- 🔭 I’m currently Exploring on **Cyber Security Technology**
+- 🔭 I’m currently Exploring **Cyber Security**
 
-- 🌱 I’m currently learning **How to Manage Network, Servers and Cloud Infrastructure**
+- 🌱 I’m currently learning **How to Manage Servers, and Cloud Infrastructure**
 
 - 📫 How to reach me **vishal.saroj18@hotmail.com**
 
