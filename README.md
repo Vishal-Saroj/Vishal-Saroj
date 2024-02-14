@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D16AQEPPngjCxvGNA/profile-displaybackgroundimage-shrink_350_1400/0/1628972882653?e=1703721600&v=beta&t=rr54NNQi_dUmDp5ze8at0Vap7cDEQOt6WjK7gbX-9uU">
+<img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D16AQEPPngjCxvGNA/profile-displaybackgroundimage-shrink_350_1400/0/1628972887429?e=1713398400&v=beta&t=cYHUe0VbWd2Zqogc2k1b0mjA_3ym1LkWOoK0fsMk7Rk">
 
 <img align="right" alt="badge" width="140" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 
